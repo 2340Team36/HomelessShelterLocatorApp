@@ -19,7 +19,7 @@ public class LoginPage extends AppCompatActivity {
 
     public EditText username;
     public EditText password;
-
+    //asdfghjkl
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
